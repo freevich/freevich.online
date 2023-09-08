@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "this is a landing page for some teaching courses From Oleg F Oganesyan",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Oleg F Oganesyan",
+  "license": "ISC"
+}
