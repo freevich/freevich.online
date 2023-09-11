@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eed7a-8219-48f2-aa7f-e570f09cb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/coffee/mainCoffee.coffee" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra/js/addingPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/extra/js/addingPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra/run.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/extra/run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -186,7 +179,7 @@
       <workItem from="1694388888479" duration="2300000" />
       <workItem from="1694392195723" duration="6807000" />
       <workItem from="1694439646584" duration="4210000" />
-      <workItem from="1694459023664" duration="2510000" />
+      <workItem from="1694459023664" duration="3062000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1694392909422</created>
@@ -199,7 +192,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14245000" />
+    <option name="totallyTimeSpent" value="14797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -216,7 +209,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32949308" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28341013" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.593318" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32949308" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
