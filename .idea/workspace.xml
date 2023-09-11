@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eed7a-8219-48f2-aa7f-e570f09cb7c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/coffee/mainCoffee.coffee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra/js/addingPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/extra/js/addingPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra/run.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/extra/run.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,12 +22,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="754" column="34" selection-start-line="754" selection-start-column="27" selection-end-line="754" selection-end-column="34" />
+            <state relative-caret-position="17710">
+              <caret line="805" column="54" selection-start-line="805" selection-start-column="54" selection-end-line="805" selection-end-column="54" />
               <folding>
                 <element signature="n#src#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#src#0;n#img#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -33,13 +39,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="1436" column="16" selection-start-line="1436" selection-start-column="16" selection-end-line="1436" selection-end-column="16" />
+            <state relative-caret-position="376">
+              <caret line="1437" column="16" selection-start-line="1437" selection-start-column="16" selection-end-line="1437" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CoffeeScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -67,8 +80,10 @@
         <option value="$PROJECT_DIR$/extra/run.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/js/basicFiles/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/coffee/mainCoffee.coffee" />
+        <option value="$PROJECT_DIR$/src/clojurescript/helloworld.cljs" />
       </list>
     </option>
   </component>
@@ -102,11 +117,6 @@
               <item name="Freevich.online" type="b2602c69:ProjectViewProjectNode" />
               <item name="Freevich.online" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Freevich.online" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Freevich.online" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -118,6 +128,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ooganesyan\Downloads\MY_EDU_PROJECTS\WEB\Freevich.online\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,7 +184,9 @@
       <workItem from="1694196523197" duration="8869000" />
       <workItem from="1694247947159" duration="4209000" />
       <workItem from="1694388888479" duration="2300000" />
-      <workItem from="1694392195723" duration="4725000" />
+      <workItem from="1694392195723" duration="6807000" />
+      <workItem from="1694439646584" duration="4210000" />
+      <workItem from="1694459023664" duration="2510000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1694392909422</created>
@@ -182,13 +199,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5443000" />
+    <option name="totallyTimeSpent" value="14245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20515575" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21106337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -200,7 +216,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32949308" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.16589862" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28341013" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32949308" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -315,7 +331,7 @@
     <entry file="file://$PROJECT_DIR$/css/micons/fonts/icomoon.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/extra/run.html" />
+    <entry file="file://$PROJECT_DIR$/src/extra/run.html" />
     <entry file="file://$PROJECT_DIR$/images/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -344,10 +360,28 @@
         <state relative-caret-position="-792" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/coffee/mainCoffee.coffee">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/clojurescript/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clojurescript/helloworld.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="754" column="34" selection-start-line="754" selection-start-column="27" selection-end-line="754" selection-end-column="34" />
+        <state relative-caret-position="17710">
+          <caret line="805" column="54" selection-start-line="805" selection-start-column="54" selection-end-line="805" selection-end-column="54" />
           <folding>
             <element signature="n#src#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#src#0;n#img#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -357,8 +391,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="1436" column="16" selection-start-line="1436" selection-start-column="16" selection-end-line="1436" selection-end-column="16" />
+        <state relative-caret-position="376">
+          <caret line="1437" column="16" selection-start-line="1437" selection-start-column="16" selection-end-line="1437" selection-end-column="16" />
         </state>
       </provider>
     </entry>

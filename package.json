@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Oleg F Oganesyan",
   "license": "ISC",
@@ -19,8 +19,13 @@
   "homepage": "https://github.com/freevich/freevich.online#readme",
   "dependencies": {
     "backbone": "^1.5.0",
+    "clojurescript": "^0.0.11",
+    "jasmine": "^5.1.0",
     "jquery": "^3.7.1",
     "mathjax-full": "^3.2.2",
     "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
   }
 }
