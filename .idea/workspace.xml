@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="716eed7a-8219-48f2-aa7f-e570f09cb7c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cljs.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clojurescript/helloworld.cljs" beforeDir="false" />
-    </list>
+    <list default="true" id="716eed7a-8219-48f2-aa7f-e570f09cb7c7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -61,7 +52,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,13 +64,13 @@
         <option value="$PROJECT_DIR$/css/vendor.css" />
         <option value="$PROJECT_DIR$/styles.html" />
         <option value="$PROJECT_DIR$/extra/css/mainExtraStyle.css" />
+        <option value="$PROJECT_DIR$/extra/run.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/js/basicFiles/main.js" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/coffee/mainCoffee.coffee" />
         <option value="$PROJECT_DIR$/src/clojurescript/helloworld.cljs" />
-        <option value="$PROJECT_DIR$/extra/run.html" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -107,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,16 +105,10 @@
               <item name="Freevich.online" type="b2602c69:ProjectViewProjectNode" />
               <item name="Freevich.online" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Freevich.online" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Freevich.online" type="462c0819:PsiDirectoryNode" />
-              <item name="extra" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,13 +143,9 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sublime10/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="run.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Freevich.online/extra/run.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.run.html" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -192,10 +173,7 @@
       <workItem from="1694388888479" duration="2300000" />
       <workItem from="1694392195723" duration="6807000" />
       <workItem from="1694439646584" duration="4210000" />
-      <workItem from="1694459023664" duration="3062000" />
-      <workItem from="1694472969736" duration="20000" />
-      <workItem from="1694473429305" duration="1079000" />
-      <workItem from="1694554231235" duration="198000" />
+      <workItem from="1694459023664" duration="2510000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1694392909422</created>
@@ -208,12 +186,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16138000" />
+    <option name="totallyTimeSpent" value="14639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17400645" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17669173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -340,6 +318,7 @@
     <entry file="file://$PROJECT_DIR$/css/micons/fonts/icomoon.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/extra/run.html" />
     <entry file="file://$PROJECT_DIR$/images/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -368,7 +347,9 @@
         <state relative-caret-position="-792" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coffee/mainCoffee.coffee" />
+    <entry file="file://$PROJECT_DIR$/src/coffee/mainCoffee.coffee">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/clojurescript/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -377,16 +358,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/clojurescript/helloworld.cljs" />
-    <entry file="file://$PROJECT_DIR$/src/extra/run.html">
+    <entry file="file://$PROJECT_DIR$/src/clojurescript/helloworld.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-256" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra/run.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        <state relative-caret-position="44">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
